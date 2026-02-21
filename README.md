@@ -14,10 +14,7 @@ Federal postal operations receive high volumes of service requests requiring doc
 ---
 
 ## Architecture Overview
-
-![AI Service Request Processing Architecture]()
-
-> *Diagram redacted for public portfolio. Internal system names, endpoints, and org identifiers removed.*
+![AI Service Request Processing Architecture](diagrams/Mule-Cloud%20AI%20Integration%20Arch.png)
 
 ---
 
